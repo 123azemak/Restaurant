@@ -1,0 +1,30 @@
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+}
+.item {
+  width: 90px;
+}
+.menu {
+  border-collapse: separate;
+  border-spacing: 0 15px;
+}
+td {
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+  text-align: center;
+  border: none;
+  padding: 15px;
+}
+h3 {
+  font-family: "Patrick Hand", cursive;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+td {
+  font-family: "Patrick Hand", cursive;
+}
